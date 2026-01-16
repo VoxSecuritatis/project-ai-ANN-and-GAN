@@ -1,6 +1,8 @@
 ## Neural Networks and Generative Adversarial Networks Portfolio Project
 ### A porfolio project to demonstrate ability in development, execution, and analysis of deep learning model using a Neural Network and a Generative Adversarial Network (GAN)
 
+### **Project File:** https://voxsecuritatis.github.io/project-ai-ANN-and-GAN/
+
 ### Neural Network
 This project is a portfolio-ready demonstration of an end-to-end deep learning workflow using the **Modified National Institute of Standards and Technology (MNIST)** handwritten digit dataset (28×28 grayscale images, digits 0–9). The notebook builds, trains, evaluates, and interprets two core image-classification approaches:
 
