@@ -151,3 +151,7 @@ So the GAN is the "creative" capstone:
 * not just recognizing digits,
 * but learning the digit distribution well enough to **produce new ones**.
 
+---
+
+© 2026 Brock Frary
+
