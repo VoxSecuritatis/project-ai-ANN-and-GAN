@@ -155,5 +155,5 @@ So the GAN is the "creative" capstone:
 
 ---
 
-© 2026 Brock Frary
+© 2026 Brock Frary. All rights reserved.
 
