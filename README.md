@@ -1,4 +1,6 @@
 ## Neural Networks and Generative Adversarial Networks Portfolio Project
+Published:  2026-01-16 | Updated: 2026-01-16
+
 ### A porfolio project to demonstrate ability in development, execution, and analysis of deep learning model using a Neural Network and a Generative Adversarial Network (GAN)
 
 ### **Project File:** [Portfolio Project](https://voxsecuritatis.github.io/project-ai-ANN-and-GAN/)
